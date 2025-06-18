@@ -22,11 +22,12 @@ Here are a few essentials to get you started:
 
 Explore by topic:
 
-- ✍️ [Articles](docs/articles.md)
+- 📝 [Articles](docs/articles.md)
 - 🎥 [Videos & Talks](docs/videos.md)
 - 📖 [Books](docs/books.md)
 - 🛠 [Projects](docs/projects.md)
-- 🛠 [Challenges](docs/challenges.md)
+- 🎯 [Challenges](docs/challenges.md)
+- 💬 [Discussions](docs/discussions.md)
 - 🧭 [Learning Paths & Roadmaps](docs/learning-paths.md)
 
 ---

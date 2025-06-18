@@ -64,6 +64,24 @@
 
 [Build your own SQLite](https://blog.sylver.dev/series/build-your-sqlite)
 
+[DB Tutorial (CStack)](https://cstack.github.io/db_tutorial/)
+
+[Mini Redis](https://github.com/tokio-rs/mini-redis)
+
+[Mini LSM (SkyZh)](https://github.com/skyzh/mini-lsm)
+
+[Mini LSM (Rust Magazine)](https://rustmagazine.org/issue-1/minilsm/)
+
+[Toy DB](https://github.com/erikgrinaker/toydb)
+
+[Berkeley DB](https://transactional.blog/building-berkeleydb/)
+
+[Build a DB](https://johns.codes/blog/build-a-db/part01) 
+
+[Writing a Simple Database in Rust](https://nikhilism.com/post/2016/writing-simple-database-in-rust-part-1/)
+
+[Writing a Vector DB in Rust](https://github.com/terminusdb/technical-blogs/blob/main/blogs/writing-a-vector-database-in-rust.md)
+
 ## Compilers
 
 [Implementing a Lox Interpreter in Rust](https://www.youtube.com/watch?v=mNOLaw-_Buc&list=PLqbS7AVVErFhAhQ5s9SWcvxHh4GwsIk_d&index=8&t=8410s&pp=iAQB)
