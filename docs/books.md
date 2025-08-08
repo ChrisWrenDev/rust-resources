@@ -127,11 +127,4 @@
 [Building Bitcoin in Rust]()
 
 
-## Reading Lists:
-
-[Little Book of Rust Books](https://lborb.github.io/book/title-page.html)
-[Rust Reading List](https://github.com/rsouth/rust-reading-list)
-[Rust Books](https://github.com/sger/RustBooks)
-[Rust Ebook Shelf](https://dieterplex.github.io/rust-ebookshelf/)
-[Rust Ebook Shelf](https://rams3s.github.io/rust-ebookshelf/)
 
