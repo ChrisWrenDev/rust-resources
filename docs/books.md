@@ -54,33 +54,6 @@
 
 [Data Structures and Algorithms in Rust](https://github.com/QMHTMY/RustBook/blob/main/books/rust-book-en-us-shieber.pdf)
 
-## Macros
-
-[The Little Book of Rust Macros](https://veykril.github.io/tlborm/introduction.html)
-
-[The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/index.html)
-
-## Concurrency
-
-[Rust Atomics and Locks](https://marabos.nl/atomics/)
-
-## Asynchronous
-
-[Asynchronous Programming in Rust](https://www.oreilly.com/library/view/asynchronous-programming-in/9781805128137/)
-
-[Hands On Functional Programming in Rust]()
-
-## Performance
-
-[Rust High Performance]()
-
-[The Rust Performance Book](https://nnethercote.github.io/perf-book/introduction.html)
-
-## Testing
-
-[Testing](https://rust-exercises.com/advanced-testing/)
-
-[Fuzz Testing](https://rust-fuzz.github.io/book/)
 
 ## Monitoring / Observability
 
